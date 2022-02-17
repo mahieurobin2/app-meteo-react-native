@@ -3,6 +3,5 @@
 ```yarn start``` to start app
 
 ## Api
-openweathermap
-(https://openweathermap.org/api)
-
+Dark Sky API
+(https://darksky.net/dev)
