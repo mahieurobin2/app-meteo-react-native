@@ -10,3 +10,4 @@ Openweathermap
 ## Demos
 
 ## Expo publish
+https://exp.host/@robinmahieu/weather-app-react-native/index.exp?sdkVersion=42.0.0
