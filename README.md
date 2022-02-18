@@ -1,5 +1,6 @@
 # react-native-meteo-app
 Here is a react native weather app
+![Test Image 1](3DTest.png)
 
 ## Setup
 ```npm install```
