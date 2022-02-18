@@ -12,5 +12,7 @@ Here is a react native weather app
 Openweathermap
 (https://home.openweathermap.org/)
 
+######Attention : For use API, you need to générate an API KEY. Everything is explained on the site https://home.openweathermap.org/
+
 ## Expo publish
 https://exp.host/@robinmahieu/weather-app-react-native/index.exp?sdkVersion=42.0.0
