@@ -1,4 +1,7 @@
 # react-native-meteo-app
+Here is a native react weather app
+
+## Setup
 ```npm install```
 
 ```yarn start``` to start app
